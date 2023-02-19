@@ -1,0 +1,6 @@
+title: My Ubuntu Server
+device: /dev/sda1
+root: /dev/sda2
+linux: /Image.gz
+initrd: /uInitrd
+options: root=/dev/sda2 rw 
